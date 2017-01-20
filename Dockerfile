@@ -1,4 +1,4 @@
-FROM php:7.1.0-cli
+FROM php:5.5.36-cli
 
 MAINTAINER Daniel Cruz <daniel.cruz.civieta@gmail.com>
 
